@@ -1,0 +1,14 @@
+C:\Project C#\QuesingGame\bin\Debug\net10.0\QuesingGame.exe
+C:\Project C#\QuesingGame\bin\Debug\net10.0\QuesingGame.deps.json
+C:\Project C#\QuesingGame\bin\Debug\net10.0\QuesingGame.runtimeconfig.json
+C:\Project C#\QuesingGame\bin\Debug\net10.0\QuesingGame.dll
+C:\Project C#\QuesingGame\bin\Debug\net10.0\QuesingGame.pdb
+C:\Project C#\QuesingGame\obj\Debug\net10.0\QuesingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project C#\QuesingGame\obj\Debug\net10.0\QuesingGame.AssemblyInfoInputs.cache
+C:\Project C#\QuesingGame\obj\Debug\net10.0\QuesingGame.AssemblyInfo.cs
+C:\Project C#\QuesingGame\obj\Debug\net10.0\QuesingGame.csproj.CoreCompileInputs.cache
+C:\Project C#\QuesingGame\obj\Debug\net10.0\QuesingGame.dll
+C:\Project C#\QuesingGame\obj\Debug\net10.0\refint\QuesingGame.dll
+C:\Project C#\QuesingGame\obj\Debug\net10.0\QuesingGame.pdb
+C:\Project C#\QuesingGame\obj\Debug\net10.0\QuesingGame.genruntimeconfig.cache
+C:\Project C#\QuesingGame\obj\Debug\net10.0\ref\QuesingGame.dll
